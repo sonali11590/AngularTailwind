@@ -1,0 +1,2 @@
+# AngularTailwind
+AngularTailwind project
